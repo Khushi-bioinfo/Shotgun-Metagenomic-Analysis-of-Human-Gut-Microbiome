@@ -1,0 +1,5 @@
+  0.00	4	0	R1	10239	  Viruses
+  0.00	3	0	G	542960	            Uetakevirus
+  0.00	3	0	G1	1231360	              unclassified Uetakevirus
+  0.00	1	0	G	308911	            Ravinvirus
+  0.00	1	0	S	40631	              Ravinvirus N15

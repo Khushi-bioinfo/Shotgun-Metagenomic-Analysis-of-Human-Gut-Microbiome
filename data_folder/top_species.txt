@@ -1,0 +1,20 @@
+ 42.75	353947	353947	S	1499973	                  Escherichia marmotae
+  6.72	55644	55296	S	562	                  Escherichia coli
+  0.15	1205	1192	S	208962	                  Escherichia albertii
+  0.07	577	142	S	28901	                  Salmonella enterica
+  0.04	362	362	S	2044467	                    Escherichia sp. E4742
+  0.04	301	301	S	564	                  Escherichia fergusonii
+  0.03	270	261	S	158836	                    Enterobacter hormaechei
+  0.02	187	187	S	571	                    Klebsiella oxytoca
+  0.02	160	142	S	573	                      Klebsiella pneumoniae
+  0.02	159	106	S	623	                  Shigella flexneri
+  0.02	141	132	S	35703	                  Citrobacter amalonaticus
+  0.01	88	88	S	546	                    Citrobacter freundii
+  0.01	76	76	S	54291	                    Raoultella ornithinolytica
+  0.01	66	66	S	1849427	                    Escherichia sp. F1
+  0.01	55	55	S	545	                  Citrobacter koseri
+  0.01	49	49	S	57706	                    Citrobacter braakii
+  0.01	48	48	S	1439319	                    Citrobacter sp. MGH 55
+  0.01	48	45	S	208223	                  Kosakonia cowanii
+  0.01	115	113	S	622	                  Shigella dysenteriae
+  0.01	100	98	S	621	                  Shigella boydii
